@@ -2,7 +2,8 @@ Hi, call me <b>Zain</b>! i am currently a student at <b>[UNUJA](https://www.unuj
 
 <b>Nice to meet you! 👋</b>
 
-<!-- <p align="center"> -->
+<p align="right">
+&copy;C o p y r i g h t - 2 0 2 1 .
 <!-- <h3>Links</h3>
 <img src="https://gpvc.arturio.dev/sw-yx" alt="Profile views">•  -->
 <!-- <a href="https://zaiinhs.github.io/">Website</a> •  -->
@@ -10,7 +11,7 @@ Hi, call me <b>Zain</b>! i am currently a student at <b>[UNUJA](https://www.unuj
 <!-- <a href="https://t.me/zaiinhs">Telegram</a> -->
 <!-- [Website](https://zaiinhs.github.io/)  -->
 <!-- [Linkedin](https://www.linkedin.com/in/zaiinhs/) -->
-<!-- </p> -->
+</p>
 
 <!-- ### Spotify Playing 🎧 -->
 
