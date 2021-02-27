@@ -1,5 +1,4 @@
-Hi, call me <b>Zain</b>! i am currently a student at [UNUJA](https://www.unuja.ac.id/) majoring in Informatics. My daily activities during this pandemic are more often spent at home, such as learning programming, helping with housework, and every day I definitely spend time in the afternoon to exercise.
-
+Hi, call me <b>Zain</b>! i am currently a student at <b>[UNUJA](https://www.unuja.ac.id/)</b> majoring in Informatics. My daily activities during this pandemic are more often spent at home, such as <b>learning programming, helping with housework,</b> and every morning I take the time to <b>exercise</b> such as <b>running around my village.</b>
 <b>Nice to meet you!</b>
 
 <p align="center">
