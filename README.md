@@ -3,8 +3,8 @@ Hi, call me Zain! i am currently a student at [UNUJA](https://www.unuja.ac.id/) 
 Nice to meet you!
 
 <p align="center">
-<h3>Links</h3>
-<img src="https://gpvc.arturio.dev/sw-yx" alt="Profile views">• 
+<!-- <h3>Links</h3>
+<img src="https://gpvc.arturio.dev/sw-yx" alt="Profile views">•  -->
 <a href="https://zaiinhs.github.io/">Website</a> • 
 <a href="https://www.linkedin.com/in/zaiinhs/">Linkedin</a> • 
 <a href="https://t.me/zaiinhs">Telegram</a>
@@ -12,6 +12,6 @@ Nice to meet you!
 **[Linkedin](https://www.linkedin.com/in/zaiinhs/)** -->
 </p>
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧 -->
 
-[<img src="https://zainal-spotify.vercel.app/api/spotify-playing" alt="Zainal Abidin Spotify Playing" width="350" />](https://open.spotify.com/user/31swkhhtsmqk36dvl7wvx2svtwqi)
+<!-- [<img src="https://zainal-spotify.vercel.app/api/spotify-playing" alt="Zainal Abidin Spotify Playing" width="350" />](https://open.spotify.com/user/31swkhhtsmqk36dvl7wvx2svtwqi) -->
