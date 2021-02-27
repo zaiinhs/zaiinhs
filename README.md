@@ -3,7 +3,7 @@ Hi, call me <b>Zain</b>! i am currently a student at <b>[UNUJA](https://www.unuj
 <b>Nice to meet you! 👋</b>
 
 <p align="right">
-&copy;C o p y r i g h t - 2 0 2 1 .
+<b>&copy;C o p y r i g h t - 2 0 2 1 .</b>
 <!-- <h3>Links</h3>
 <img src="https://gpvc.arturio.dev/sw-yx" alt="Profile views">•  -->
 <!-- <a href="https://zaiinhs.github.io/">Website</a> •  -->
