@@ -4,13 +4,19 @@ Hi, call me <b>Zain</b>! i am currently a student at <b>[UNUJA](https://www.unuj
 
 <div align="center">
 <img src="gambar1.gif" width="300"/> 
-<p style="color: #03ac0e;">#MulaiAjaDulu</p>
+<a href="https://www.tokopedia.com/" style="color: #03ac0e;"><p>#MulaiAjaDulu</p></a>
 </div>
 
 #
 
 <p align="right">
 <b>&copy;C o p y r i g h t - 2 0 2 1 .</b>
+
+<style>
+    *{
+        background-color: yellow;
+    }
+</style>
 <!-- <h3>Links</h3>
 <img src="https://gpvc.arturio.dev/sw-yx" alt="Profile views">•  -->
 <!-- <a href="https://zaiinhs.github.io/">Website</a> •  -->
