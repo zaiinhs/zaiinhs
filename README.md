@@ -1,9 +1,3 @@
-<p align="center">
-<img src="gambar21.gif" width="300"/> 
-</p>
-
-#
-
 Hi, call me <b>Zain</b>! i am currently a student at <b>[UNUJA](https://www.unuja.ac.id/)</b> majoring in Informatics. My daily activities during this pandemic are more often spent at home, such as <b>learning programming, helping with housework,</b> and every morning I take the time to <b>exercise</b> such as <b>running around my village.</b>
 
 <p>#MulaiAjaDulu</p>
