@@ -1,6 +1,6 @@
-<h3 align="center">
-<b>Hello World 👋</b> 
-</h3>
+<p align="center">
+<img src="gambar21.gif" width="300"/> 
+</p>
 
 #
 
