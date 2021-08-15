@@ -1,9 +1,9 @@
-Hi, call me <b>Zain</b>! i am currently a student at <b>[UNUJA](https://www.unuja.ac.id/)</b> majoring in Informatics. My daily activities during this pandemic are more often spent at home, such as <b>learning programming, helping with housework,</b> and every morning I take the time to <b>exercise</b> such as <b>running around my village.</b>
+Technology is a tool to start making big changes in the world. The need for technology talent today is very large, especially in my country, Indonesia.
 
-<b>Nice to meet you! 👋</b>
+Data on the population in Indonesia in 2021 is approximately 271 million, this is a very large number. With the growth of startups in Indonesia and a very large population, it is certain that the need for technology talent in Indonesia today and in the future is very large.
 
-<!-- #
-9/05/21 - 1/06/21 (Not active on github, due to Eid preparations and holidays😊) -->
+I am a skilled person and care deeply about leading a team, developing a business plan, technological innovation, and technology as a product in order to solve problems and achieve business goals.
+
 
 <p align="center">
 <img src="gambar1.gif" width="300"/>
@@ -26,6 +26,6 @@ Hi, call me <b>Zain</b>! i am currently a student at <b>[UNUJA](https://www.unuj
 <!-- [Linkedin](https://www.linkedin.com/in/zaiinhs/) -->
 </p>
 
-<!-- ### Spotify Playing 🎧 -->
+### Spotify Playing 🎧 -->
 
-<!-- [<img src="https://zainal-spotify.vercel.app/api/spotify-playing" alt="Zainal Abidin Spotify Playing" width="350" />](https://open.spotify.com/user/31swkhhtsmqk36dvl7wvx2svtwqi) -->
+[<img src="https://zainal-spotify.vercel.app/api/spotify-playing" alt="Zainal Abidin Spotify Playing" width="350" />](https://open.spotify.com/user/31swkhhtsmqk36dvl7wvx2svtwqi)
