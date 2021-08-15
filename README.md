@@ -5,7 +5,7 @@ Data on the population in Indonesia in 2021 is approximately 271 million, this i
 I am a skilled person and care deeply about leading a team, developing a business plan, technological innovation, and technology as a product in order to solve problems and achieve business goals.
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="gambar1.gif" width="300"/>
 </p>
 <p align="center">
@@ -15,7 +15,7 @@ I am a skilled person and care deeply about leading a team, developing a busines
 #
 
 <p align="right">
-<b>&copy;C o p y r i g h t - 2 0 2 1 .</b>
+<b>&copy;C o p y r i g h t - 2 0 2 1 .</b> -->
 
 <!-- <h3>Links</h3>
 <img src="https://gpvc.arturio.dev/sw-yx" alt="Profile views">•  -->
