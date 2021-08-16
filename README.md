@@ -1,9 +1,9 @@
-Technology is a tool to start making big changes in the world. The need for technology talent today is very large, especially in my country, Indonesia.
+Technology is a tool to start making <b>big changes in the world</b>. The need for technology talent today is very large, especially in my country, Indonesia.
 
-Data on the population in Indonesia in 2021 is approximately 271 million, this is a very large number. With the growth of startups in Indonesia and a very large population, it is certain that the need for technology talent in Indonesia today and in the future is very large.
+Data on the population in Indonesia in 2021 is <b>approximately 271 million</b>, this is a very large number. With the growth of <b>startups in Indonesia and a very large population</b>, it is certain that the need for technology talent in Indonesia today and in the future is very large.
 
-I am a skilled person and care deeply about leading a team, developing a business plan, technological innovation, and technology as a product in order to solve problems and achieve business goals.
-
+<i>I am a skilled person and care deeply about leading a team, developing a business plan, technological innovation, and technology as a product in order to solve problems and achieve business goals.
+</i>
 
 <!-- <p align="center">
 <img src="gambar1.gif" width="300"/>
@@ -24,7 +24,9 @@ I am a skilled person and care deeply about leading a team, developing a busines
 <!-- <a href="https://t.me/zaiinhs">Telegram</a> -->
 <!-- [Website](https://zaiinhs.github.io/)  -->
 <!-- [Linkedin](https://www.linkedin.com/in/zaiinhs/) -->
-</p>
+<!-- </p> -->
+
+#
 
 ### Spotify Playing 🎧 -->
 
