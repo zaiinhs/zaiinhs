@@ -6,6 +6,7 @@
 ### Latest article posts from my Medium
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Accessing and Modifying Object Properties in JavaScript](https://zaiinhs.medium.com/sekilas-tentang-property-di-javascript-1053b20e7b99?source=rss-6be0a09e598d------2)
 - [JavaScript Primitive Values &amp; Non-Primitive Values &lpar;Object References&rpar;](https://zaiinhs.medium.com/javascript-primitive-value-non-primitive-value-object-references-versi-indonesia-5754eb2a8b72?source=rss-6be0a09e598d------2)
 - [Setup SSH Key di WSL Windows](https://zaiinhs.medium.com/setup-ssh-key-di-wsl-windows-568acf2beea8?source=rss-6be0a09e598d------2)
@@ -32,6 +33,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+
+</p>
