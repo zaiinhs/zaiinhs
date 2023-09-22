@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="left">Hi 👋,</h1>
 
 - 📫 How to reach me **zainalabidinhsc@gmail.com**
 
