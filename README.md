@@ -11,5 +11,3 @@
     <a href="https://www.codewars.com/users/zaiinhs" target="_blank">codewars</a>
   </samp>
 </p>
-
-testing
